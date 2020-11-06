@@ -1,3 +1,7 @@
+/*
+  Css style for index.html
+*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -15,6 +19,7 @@ header {
     color: #ffffff;
 }
 
+/* Header contains navigation and company name. */
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -50,6 +55,7 @@ p {
     font-size: 16px;
 }
 
+/* Large cover image displayed underneath header. */
 figure {
     height: 800px;
     width: 100%;
@@ -76,6 +82,7 @@ article {
     margin-left: 20px;
 }
 
+/* Information displayed on the right panel of website. */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -87,6 +94,7 @@ aside {
     background-color: #2589bd;
 }
 
+/* aside made of three benefit elements, each with following styling: */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -103,6 +111,7 @@ aside {
     max-width: 150px;
 }
 
+/* Main article composed of three strategy elements. */
 .strategy {
     margin-bottom: 20px;
     padding: 50px;
