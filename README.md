@@ -1,2 +1,2 @@
 # week-2-activities
-This repository is used for the activities in week 2. 
+<!-- TODO: Write good README for hw. -->
